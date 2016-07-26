@@ -1,4 +1,3 @@
-# Testing
-For Testing
+# Testing git commands
+Just For Testing Git
 
-WP Social Feeds
